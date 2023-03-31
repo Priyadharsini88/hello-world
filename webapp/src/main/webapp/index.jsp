@@ -2,7 +2,9 @@
   <div class="container">
     <h1>Welcome to Devops automation</h1>
     <p>Please fill in this form to create an account.</p>
-    <p>Welcome to devops using docker  </p>
+    <p>Welcome to devops CI CD .
+    This is a course registeration site.
+    </p>
     <hr>
     <hr>
     <label for="email"><b>Email</b></label>
