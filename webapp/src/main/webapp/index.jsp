@@ -3,7 +3,7 @@
     <h1>Welcome to Devops automation</h1>
     <p>Please fill in this form to create an account.</p>
     <p>Welcome to devops CI CD .
-    This is a course registeration site.
+    This is a course registeration page.
     </p>
     <hr>
     <hr>
