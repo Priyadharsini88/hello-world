@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <p>Welcome to devops CI CD .
     This is a course registeration page.
-    THis is docker-Ansible integration.test Check poll scm.
+    THis is docker-Ansible integration.By Priya
     </p>
     <hr>
     <hr>
